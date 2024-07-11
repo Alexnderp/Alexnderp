@@ -28,7 +28,7 @@
 
 
 ##  hardSkills:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,ts,nestjs,mysql,postgres,mongodb,py,java,prisma,docker,aws,spring,react,git,github,figma)]
+![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,ts,nestjs,mysql,postgres,mongodb,py,java,prisma,docker,aws,spring,react,git,github,figma)
 
 ## youCanFindMeHere 👇	
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin))](https://www.linkedin.com/in/alexnderp/)
