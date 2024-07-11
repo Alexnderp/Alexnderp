@@ -1,13 +1,39 @@
-# Koe! :call_me_hand:
+<div>
+<a href="https://github.com/Alexnderp">
+<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexnderp&layout=compact&langs_count=7&theme=dark"/>
+<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=Alexnderp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
 
-Meu Chamo Alexander Pereira e sou **Back-end Developer**, iniciei meu contato com programação em 2022 e atualmente sou aluno da [@cubosacademy](https://cubos.academy). 
-Motivado pela curiosidade, estou sempre disposto a aprender e buscar novos desafios, espero assim agregar em todas oportunidades que me forem concedidas.
+![Snake animation](https://github.com/Alexnderp/Alexnderp/blob/output/github-contribution-grid-snake.svg)
 
+# AboutMe
 
-## Você pode me encontrar aqui 👇	
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexnderp/) 
+```json
+{
+	"name":"Alexander Pereira",
+	"age":"27",
+	"from":"Brazil, Rio de Janeiro",
+	"graduation":{
+		"course":"Analysis and Systems Development",
+		"at":"Faculdade Vincit",
+		"graduateIn":"2026-12"
+	},
+	"hobbies":{
+		"musician":"bass",
+		"films":"animation",
+		"series":"fiction",
+		"nature":"waterfall"
+	},
+	"contact":"xandi9731@gmail.com"
+}
+```
 
 
 ##  Hard Skills:
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  ![PostegreSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,ts,nestjs,mysql,postgres,mongodb,py,java,prisma,docker,aws,spring,react,git,github,figma)]
+
+## You can find me here 👇	
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin))](https://www.linkedin.com/in/alexnderp/)
+
+
 
