@@ -27,10 +27,10 @@
 ```
 
 
-##  Hard Skills:
+##  hardSkills:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,ts,nestjs,mysql,postgres,mongodb,py,java,prisma,docker,aws,spring,react,git,github,figma)]
 
-## You can find me here 👇	
+## youCanFindMeHere 👇	
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin))](https://www.linkedin.com/in/alexnderp/)
 
 
