@@ -4,7 +4,7 @@
 {
 	"name":"Alexander Pereira",
 	"age":"27",
-	"from":"Brazil, Rio de Janeiro",
+	"from":"Rio de Janeiro, Brazil",
 	"graduation":{
 		"course":"Analysis and Systems Development",
 		"at":"Faculdade Vincit",
