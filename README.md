@@ -19,10 +19,13 @@
 	"contact":"xandi9731@gmail.com"
 }
 ```
-
+<center>
+	
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexnderp&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alexnderp&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alexnderp&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alexnderp&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alexnderp&theme=github_dark&utcOffset=8)
+
+</center>
 
 ##  hardSkills:
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,ts,nestjs,mysql,postgres,mongodb,py,java,prisma,docker,aws,spring,react,git,github,figma)
