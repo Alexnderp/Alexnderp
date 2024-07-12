@@ -1,9 +1,3 @@
-<div>
-<a href="https://github.com/Alexnderp">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexnderp&layout=compact&langs_count=7&theme=dark"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexnderp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-
 # AboutMe
 
 ```json
@@ -26,9 +20,13 @@
 }
 ```
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexnderp&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alexnderp&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alexnderp&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alexnderp&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alexnderp&theme=github_dark&utcOffset=8)
 
 ##  hardSkills:
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,ts,nestjs,mysql,postgres,mongodb,py,java,prisma,docker,aws,spring,react,git,github,figma)
+
 
 ## youCanFindMeHere 👇	
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin))](https://www.linkedin.com/in/alexnderp/)
